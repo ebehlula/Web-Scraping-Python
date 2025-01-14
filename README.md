@@ -36,8 +36,8 @@ A Python tool for scraping and cleaning HTML content from webpages. It supports 
 ## Example Output
 For a `div` with a class:  
 ```plaintext
-1. [Author: This is a blockquote content.]
-2. [Other cleaned content.]
+1. [How to create Tags / Categories for different Topics]
+2. [Re: How to create Tags / Categories for different Topics]
 ```
 
 ## Edge Case Example
